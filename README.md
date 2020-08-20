@@ -1,2 +1,2 @@
-# -high-performance-javascript
+# high-performance-javascript
 《高性能javascript》笔记
