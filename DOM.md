@@ -39,7 +39,7 @@ var ar   = toArray(coll)
 ````
 var errs = document.querySelectorAll('div.warning,div.notice')
 ````
-querySelector()来获取第一个匹配的节点
+querySelector()来获取第一个匹配的节点  
 4. DOM树：表示页面结构  渲染树：表示DOM节点如何显示（DOM树结合CSS树）
 DOM树中的每一个需要显示的节点在渲染树中至少存在一个对应的节点（隐藏的DOM元素在渲染树中没有对应的节点）
 5. 考虑样式的频繁改变，会影响元素的集合结构，也导致频繁重绘和重排
